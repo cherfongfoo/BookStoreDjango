@@ -1,0 +1,5 @@
+certifi==2018.11.29
+Django==2.1.2
+django-registration-redux==2.5
+pytz==2018.7
+wincertstore==0.2
